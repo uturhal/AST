@@ -32,7 +32,7 @@ ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
 31	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LDS72P2	-1001155626176
 32	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LLG9KQT	-1001155626176
 33	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LNPPCWJ	-1001155626176
-34	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B010RXXY48	-1001155626176
+34	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LNQTSCT	-1001155626176
 35	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LNWPYRS	-1001155626176
 36	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LNY8P5L	-1001155626176
 37	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LTJVGYS	-1001155626176
@@ -60,4 +60,4 @@ ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
 59	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08QZP2RRS	-1001155626176
 60	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08R427DMQ	-1001155626176
 61	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08BL4K6LN	-1001155626176
-62	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B00KXULGJQ	-1001155626176
+62	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B010RXXY48	-1001155626176
