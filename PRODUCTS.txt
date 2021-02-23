@@ -60,3 +60,4 @@ ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
 59	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08QZP2RRS	-1001155626176
 60	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08R427DMQ	-1001155626176
 61	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08BL4K6LN	-1001155626176
+62	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B01MD1SKLL	-1001155626176
